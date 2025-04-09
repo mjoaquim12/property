@@ -7,7 +7,7 @@ export default function Home() {
             Welcome to Property Management
           </h1>
           <p className="text-gray-500 mb-8">
-            A simple static page to test deployment
+            A simple static page to test deployment - by Sherwyn Mascarenhas and Jayden Mascarenhas
           </p>
         </div>
       </div>
